@@ -11,5 +11,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "a playground for a node/api lesson"
 }
