@@ -13,6 +13,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "a playground for a node/api lesson",
-	"keywords": ["freecodecamp","Training","Testing","git Practice"]
+	"keywords": ["freecodecamp","Training","Testing","git Practice"],
+	"license": "sponged off of freecodecamp"
 
 }
