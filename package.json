@@ -14,6 +14,7 @@
 	},
 	"description": "a playground for a node/api lesson",
 	"keywords": ["freecodecamp","Training","Testing","git Practice"],
-	"license": "sponged off of freecodecamp"
+	"license": "sponged off of freecodecamp",
+	"version": "1.0.0"
 
 }
