@@ -12,10 +12,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-<<<<<<< HEAD
 	"description": "a playground for a node/api lesson",
 	"keywords": ["freecodecamp","Training","Testing","git Practice"]
-=======
-	"description": "a playground for a node/api lesson"
->>>>>>> 32c3da449ddb936ba4b19e8ff89b42c843e88651
+
 }
