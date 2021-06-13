@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "qolo Temari",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0", "moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -15,9 +15,6 @@
 	"description": "a playground for a node/api lesson",
 	"keywords": ["freecodecamp","Training","Testing","git Practice"],
 	"license": "sponged off of freecodecamp",
-	"version": "1.0.0",
-	"dependencies": {
-		"moment": "2.14.0"
-	  }
+	"version": "1.0.0"
 
 }
